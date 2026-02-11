@@ -173,9 +173,6 @@ footer p {
 form {
     max-width: 600px;
     margin: 0 auto;
-    background-color: #f0f8ff;
-    padding: 30px;
-    border-radius: 10px;
 }
 
 form label {
